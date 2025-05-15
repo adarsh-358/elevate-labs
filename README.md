@@ -16,3 +16,10 @@ day 1
 
 8.extract the raw data
 
+#day 3
+
+1.Assumed Dataset Structure
+
+2.Used SQL Queries with Key Clauses & Techniques
+
+3.Planned Deliverables
